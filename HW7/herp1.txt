@@ -1,0 +1,36 @@
+Name: cure for cancer protein
+Nucleotides: ATGCCACTATGGTAG
+Nucleotide counts: [4, 3, 4, 4]
+
+Name: captain picard hair growth protein
+Nucleotides: ATGCCAACATGGATGCCCGATATGGATTGA
+Nucleotide counts: [9, 6, 8, 7]
+
+Name: bogus protein
+Nucleotides: CCATTAATGATCACAGTT
+Nucleotide counts: [6, 4, 2, 6]
+
+Name: michael jordan mad hops protein
+Nucleotides: ATGAGATCCGTGATGTGGGATCCTACTCATTAA
+Nucleotide counts: [9, 6, 8, 10]
+
+Name: paris hilton phony protein
+Nucleotides: ATGCCAACATGGATGCCCTAAGATATGGATTAGTGA
+Nucleotide counts: [12, 6, 9, 9]
+
+Name: george w bush approval rating protein
+Nucleotides: ATGATAATTAGTTTTAATATCAGACTGTAA
+Nucleotide counts: [12, 2, 4, 12]
+
+Name: jimi hendrix guitar talent protein
+Nucleotides: ATGCAATTGCTCGATTAG
+Nucleotide counts: [5, 3, 4, 6]
+
+Name: tyler durden's brain protein
+Nucleotides: ATGATACCTATGAGTAATGTGGACCATATCCAAACTATAGGCATTGTCGGACCAACGATCGATTGGTTATACTGA
+Nucleotide counts: [24, 14, 16, 21]
+
+Name: mini me growth hormone
+Nucleotides: ATGGGACGCTGA
+Nucleotide counts: [3, 2, 5, 2]
+

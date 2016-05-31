@@ -1,0 +1,72 @@
+Name: cure for cancer protein
+Nucleotides: ATGCCACTATGGTAG
+Nucleotide counts: [4, 3, 4, 4]
+Mass percentages: [27.3, 16.8, 30.6, 25.3]
+Codons: [ATG, CCA, CTA, TGG, TAG]
+Codons: [ATG, CCA, CTA, TGG, TAG]
+Encodes a protein: yes
+
+Name: captain picard hair growth protein
+Nucleotides: ATGCCAACATGGATGCCCGATATGGATTGA
+Nucleotide counts: [9, 6, 8, 7]
+Mass percentages: [30.7, 16.8, 30.5, 22.1]
+Codons: [ATG, CCA, ACA, TGG, ATG, CCC, GAT, ATG, GAT, TGA]
+Codons: [ATG, CCA, ACA, TGG, ATG, CCC, GAT, ATG, GAT, TGA]
+Encodes a protein: yes
+
+Name: bogus protein
+Nucleotides: CCATTAATGATCACAGTT
+Nucleotide counts: [6, 4, 2, 6]
+Mass percentages: [35.1, 19.3, 13.1, 32.5]
+Codons: [CCA, TTA, ATG, ATC, ACA, GTT]
+Codons: [CCA, TTA, ATG, ATC, ACA, GTT]
+Encodes a protein: no
+
+Name: michael jordan mad hops protein
+Nucleotides: ATGAGATCCGTGATGTGGGATCCTACTCATTAA
+Nucleotide counts: [9, 6, 8, 10]
+Mass percentages: [28.0, 15.3, 27.8, 28.8]
+Codons: [ATG, AGA, TCC, GTG, ATG, TGG, GAT, CCT, ACT, CAT, TAA]
+Codons: [ATG, AGA, TCC, GTG, ATG, TGG, GAT, CCT, ACT, CAT, TAA]
+Encodes a protein: yes
+
+Name: paris hilton phony protein
+Nucleotides: ATGCCAACATGGATGCCCTAAGATATGGATTAGTGA
+Nucleotide counts: [12, 6, 9, 9]
+Mass percentages: [34.0, 14.0, 28.5, 23.6]
+Codons: [ATG, CCA, ACA, TGG, ATG, CCC, TAA, GAT, ATG, GAT, TAG, TGA]
+Codons: [ATG, CCA, ACA, TGG, ATG, CCC, TAA, GAT, ATG, GAT, TAG, TGA]
+Encodes a protein: yes
+
+Name: george w bush approval rating protein
+Nucleotides: ATGATAATTAGTTTTAATATCAGACTGTAA
+Nucleotide counts: [12, 2, 4, 12]
+Mass percentages: [41.1, 5.6, 15.3, 38.0]
+Codons: [ATG, ATA, ATT, AGT, TTT, AAT, ATC, AGA, CTG, TAA]
+Codons: [ATG, ATA, ATT, AGT, TTT, AAT, ATC, AGA, CTG, TAA]
+Encodes a protein: no
+
+Name: jimi hendrix guitar talent protein
+Nucleotides: ATGCAATTGCTCGATTAG
+Nucleotide counts: [5, 3, 4, 6]
+Mass percentages: [28.6, 14.1, 25.6, 31.8]
+Codons: [ATG, CAA, TTG, CTC, GAT, TAG]
+Codons: [ATG, CAA, TTG, CTC, GAT, TAG]
+Encodes a protein: yes
+
+Name: tyler durden's brain protein
+Nucleotides: ATGATACCTATGAGTAATGTGGACCATATCCAAACTATAGGCATTGTCGGACCAACGATCGATTGGTTATACTGA
+Nucleotide counts: [24, 14, 16, 21]
+Mass percentages: [32.9, 15.8, 24.6, 26.7]
+Codons: [ATG, ATA, CCT, ATG, AGT, AAT, GTG, GAC, CAT, ATC, CAA, ACT, ATA, GGC, ATT, GTC, GGA, CCA, ACG, ATC, GAT, TGG, TTA, TAC, TGA]
+Codons: [ATG, ATA, CCT, ATG, AGT, AAT, GTG, GAC, CAT, ATC, CAA, ACT, ATA, GGC, ATT, GTC, GGA, CCA, ACG, ATC, GAT, TGG, TTA, TAC, TGA]
+Encodes a protein: yes
+
+Name: mini me growth hormone
+Nucleotides: ATGGGACGCTGA
+Nucleotide counts: [3, 2, 5, 2]
+Mass percentages: [24.8, 13.6, 46.3, 15.3]
+Codons: [ATG, GGA, CGC, TGA]
+Codons: [ATG, GGA, CGC, TGA]
+Encodes a protein: no
+

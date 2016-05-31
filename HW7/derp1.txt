@@ -1,0 +1,18 @@
+Name: cure for cancer protein
+Nucleotides: ATGCCACTATGGTAG
+Name: captain picard hair growth protein
+Nucleotides: ATGCCAACATGGATGCCCGATATGGATTGA
+Name: bogus protein
+Nucleotides: CCATTAATGATCACAGTT
+Name: michael jordan mad hops protein
+Nucleotides: ATGAGATCCGTGATGTGGGATCCTACTCATTAA
+Name: paris hilton phony protein
+Nucleotides: ATGCCAACATGGATGCCCTAAGATATGGATTAGTGA
+Name: george w bush approval rating protein
+Nucleotides: ATGATAATTAGTTTTAATATCAGACTGTAA
+Name: jimi hendrix guitar talent protein
+Nucleotides: ATGCAATTGCTCGATTAG
+Name: tyler durden's brain protein
+Nucleotides: ATGATACCTATGAGTAATGTGGACCATATCCAAACTATAGGCATTGTCGGACCAACGATCGATTGGTTATACTGA
+Name: mini me growth hormone
+Nucleotides: ATGGGACGCTGA
